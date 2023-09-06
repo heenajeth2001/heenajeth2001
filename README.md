@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi 👋, I'm Heena Jethava - A Passionate Full Stack Developer</h3>
+<h3 align="center">Hi 👋, I'm Heena Jethava - Software Developer</h3>
 
 <img align="right" alt="art" width="300" src="https://github.com/heenajeth2001/heenajeth2001/blob/main/image.png">
 
