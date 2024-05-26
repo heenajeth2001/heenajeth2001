@@ -22,9 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heenajeth2001&" alt="heenajeth2001" /></p>
 
-<h3 align="left">Others: </h3>
-<ul>
-  <li> UI Designing </li>
-  <li> Graphic Designing: Logo, Banners, Posters, Ppts, Video Invites, Flyers </li>
-</ul>
-
